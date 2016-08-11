@@ -1,0 +1,24 @@
+CHANGES
+=======
+
+* Add Indulekha in template
+* updating payyans.html
+* adding a bangali font map
+* add jquery.ime
+* error alert is renamed to danger in new bootstrap
+* remove un-used div
+* new bootstrap ui
+* javascript code cleaning
+* +Haritha-New Font Map Adding
+* +ML-TT Nandini-New Font Map Adding
+* +Panchari-New Font Map Adding
+* updating smc mail adress
+* Bumped version to 0.2, templates are moved into modules and setuptools-git requirement added
+* added setuptools-git to manage packaging
+* added templates
+* fix some errors
+* add setup.py
+* init
+* pep8 cleaning
+* standard used in all modules
+* import from original code
