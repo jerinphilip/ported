@@ -1,0 +1,17 @@
+CHANGES
+=======
+
+* autopep8, print(), unicode only for py < 2
+* tests setup
+* normalize atomic chillus
+* Remove unwanted space indentation
+* version bump for bugfix release
+* fixed space removal from strings
+* New version release
+* calling function expects string as return value
+* Initial commit
+* Proper package was not created before now fixed setup.py
+* Fixed __init__.py and renamed normalizer -> core.py
+* Gitignore added
+* Setup script added
+* Initalized Normalizer

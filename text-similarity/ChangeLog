@@ -1,0 +1,10 @@
+CHANGES
+=======
+
+* WSME REST Support
+* add jquery ime
+* new ui and show message when input is empty
+* improving javascript code
+* adde proper version number
+* templates added
+* initial commit, python modules working
